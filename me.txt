@@ -1,0 +1,2 @@
+I am a second-year international Data Science student. I go to Michigan Tech. And I love soldering.
+Currently, we are learning how to use Git.
